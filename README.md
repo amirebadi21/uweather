@@ -15,7 +15,7 @@ Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
 <br/>
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/screen.webp?raw=true" />
+<img src="https://github.com/amirebadi21/uweather/blob/main/Screenshot%20(58).png?raw=true" />
 <br/>
 Best regards.
 <br/>
